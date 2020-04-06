@@ -1,0 +1,50 @@
+
+H1{
+    text-align: center;
+    text-decoration: solid underline;
+    color: blue;
+    
+}
+H2{
+    text-align: center;
+    text-decoration: ;
+    color: black;
+    font-style: italic;
+    font-size: 5;
+    
+}
+
+.sidenavbar ul {
+  list-style-type: none;
+  margin: 0px;
+  padding:10px;
+  width: 150px;
+  background-color: aliceblue;
+    border: 2px solid grey;
+}
+
+.sidenavbar ul{
+    float: left;
+    margin-bottom:453px;
+    
+}
+.sidenavbar li a {
+  display: block;
+  color: black;
+  padding: 8px 16px;
+  text-decoration: none;
+}
+.sidenavbar li{
+    text-align: center;
+    border-bottom: 1px solid black;
+    }
+.sidenavbar li:last-child{
+    border-bottom: none;
+}
+.sidenavbar li a.active{
+    background-color: black;
+    color: white;
+    
+    
+
+
